@@ -1,0 +1,10 @@
+Instructions
+
+Inside the bin folder you will find an app
+Inside the data folder in the bin you will find a file called mysettings.xml
+
+Enter the desired video width and height for capture here (before you start the app).
+
+Launch the app and press 's' for the settingsd (this allows you to select inputs and format)
+
+When you are sett press 'd' (this will toggle the video draw) to turn off the video in the app- it will keep playing out syphon.
